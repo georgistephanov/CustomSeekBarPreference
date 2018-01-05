@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:SeekBarPreference="http://schemas.android.com/apk/res-auto">
+
+	<com.georgistephanov.android.seekbarpreference.SeekBarPreference
+		android:key="pref_key_session_duration"
+		android:title="Sample"
+		android:defaultValue="25"
+		SeekBarPreference:max="50"
+		SeekBarPreference:label="minutes"/>
+
+</PreferenceScreen>

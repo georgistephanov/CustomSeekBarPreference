@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Settings -->
+	<dimen name="setting_name_textSize">17sp</dimen>
+	<dimen name="setting_name_padding_sides">15dp</dimen>
+	<dimen name="setting_name_padding_top">15dp</dimen>
+	<dimen name="setting_name_padding_bottom">5dp</dimen>
+	<dimen name="setting_inner_layout_padding_bottom">15dp</dimen>
+	<dimen name="setting_seekbar_padding_left">15dp</dimen>
+	<dimen name="setting_seekbar_padding_right">10dp</dimen>
+	<dimen name="setting_duration_label_padding_left">10dp</dimen>
+	<dimen name="setting_duration_label_padding_bottom">10dp</dimen>
+	<dimen name="setting_duration_label_text_size">17sp</dimen>
+</resources>
